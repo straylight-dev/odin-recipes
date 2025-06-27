@@ -14,6 +14,7 @@
     background-color: #521C03;
     font-family: monospace;
     padding: 8px;
+    color: white;
 }
 
 .ramen-steps {
@@ -57,6 +58,38 @@
     font-family: monospace;
     text-align: center;
 }
+
+.tamales-header {
+    background-color: #7D6336;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.tamales-description {
+    background-color: #603407;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.tamales-ingredients {
+    background-color: #260C03;
+    font-family: monospace;
+    padding: 8px;
+    color: white;
+}
+
+.tamales-steps {
+    background-color: #592201;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.tamales-footer {
+    background-color: #A56507;
+    font-family: monospace;
+    text-align: center;
+}
+
 .food-title {
     text-align: center;
 }
