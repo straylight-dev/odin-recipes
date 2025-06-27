@@ -98,3 +98,33 @@
 .food-content {
     padding: 5px;
 }
+
+.intro-title {
+    background-color: #D4CAC6;
+    font-family: monospace;
+    text-align: center;
+}
+
+.ramen-link {
+    background-color: #926B25;
+    font-family: monospace;
+    text-align: left;
+    font-size: large;
+    padding: 20px;
+}
+
+.pizza-link {
+    background-color: #A43212;
+    font-family: monospace;
+    text-align: left;
+    font-size: large;
+    padding: 20px;   
+}
+
+.tamales-link {
+    background-color: #A56507;
+    font-family: monospace;
+    text-align: left;
+    font-size: large;
+    padding: 20px;
+}
