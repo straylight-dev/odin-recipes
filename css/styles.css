@@ -1,0 +1,33 @@
+.ramen-header {
+    background-color: #926B25;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.ramen-description {
+    background-color: #BAADA1;
+    font-family: monospace;
+}
+
+.ramen-ingredients {
+    background-color: #521C03;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.ramen-steps {
+    background: #F1DEC7;
+}
+
+.ramen-footer {
+    background-color: #E7C37D;
+}
+
+.food-title {
+    text-align: center;
+}
+
+.food-header,
+.food-content {
+    padding: 5px;
+}
